@@ -1,0 +1,1 @@
+# Solucionador-Suguru-Haskell
